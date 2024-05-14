@@ -1,6 +1,4 @@
- #HIGH Cloud Airlines Analytics
 
- 
 **Project Title: HIGH Cloud Airlines Analytics**
 
 
